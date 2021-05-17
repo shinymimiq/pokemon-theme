@@ -4,8 +4,15 @@
 	"colors": {
 		"editor.background": "#2B2B2B",
 		"editor.foreground": "#eeffff",
+		"editor.selectionBackground": "#595761",
+		"minimap.selectionHighlight": "#595761",
 		"activityBarBadge.background": "#2B2B2B",
-		"sideBarTitle.foreground": "#2B2B2B"
+		"sideBarTitle.foreground": "#2B2B2B",
+		"activityBar.background": "#2B2B2B",
+		"statusBar.background": "#2B2B2B",
+		"sideBar.background": "#2B2B2B",
+		"panel.background":  "#2B2B2B",
+		"terminal.background": "#2B2B2B",
 	},
 	"tokenColors": [
 		{
