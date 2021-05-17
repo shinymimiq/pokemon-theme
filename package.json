@@ -3,6 +3,8 @@
     "displayName": "Pokemon-theme",
     "description": "Inspired from pokemon type colors",
     "version": "0.0.1",
+    "publisher": "Shinymimikyu",
+    "icon": "image/icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
