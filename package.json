@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "publisher": "Shinymimikyu",
     "icon": "image/icon.png",
+    "repository": {"type": "git", "url": "https://github.com/shinymimiq/pokemon-theme"},
     "engines": {
         "vscode": "^1.56.0"
     },
