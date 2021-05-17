@@ -13,6 +13,7 @@
 		"sideBar.background": "#2B2B2B",
 		"panel.background":  "#2B2B2B",
 		"terminal.background": "#2B2B2B",
+		"editor.lineHighlightBackground": "#313133"
 	},
 	"tokenColors": [
 		{
@@ -61,7 +62,7 @@
 				"keyword",
 			],
 			"settings": {
-				"foreground": "#5F6DBC" // Ghost
+				"foreground": "#EE90E6" // Fairy
 			}
 		},
 		{
@@ -115,7 +116,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#5FBD58" // grass
+				"foreground": "#FA8581" // psychic
 			}
 		},
 		{
@@ -225,7 +226,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5695A3" // steel
+				"foreground": "#75D0C1" // ice
 			}
 		},
 		{
@@ -235,7 +236,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5695A3" // steel
+				"foreground": "#5F6DBC" // ghost
 			}
 		},
 		{
@@ -245,7 +246,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#5695A3" // steel
+				"foreground": "#5F6DBC" // ghost
 			}
 		},
 		{
@@ -254,7 +255,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FA8581"
+				"foreground": "#5695A3" // steel
 			}
 		},
 		{
@@ -265,7 +266,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FA8581"
+				"foreground": "#5695A3"
 			}
 		},
 		{
@@ -350,7 +351,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#5FBD58"
 			}
 		},
 		{
@@ -360,7 +361,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C9BB8A"
+				"foreground": "#5FBD58"
 			}
 		},
 		{
@@ -433,7 +434,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#A1BBEC"
+				"foreground": "#5FBD58"
 			}
 		},
 		{
