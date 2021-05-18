@@ -3,6 +3,9 @@
 This is a color theme inspired from the pokemon type color from
 [Pokedex iOS app](https://dribbble.com/shots/4862612-Pokedex-iOS-app) and [Pokemon Type SVG Icons](https://github.com/duiker101/pokemon-type-svg-icons)
 
+Colors:
+![Colors](/image/typecolor.png)
+
 ## Todo:
 - [x] Update for the peak view / quick view
 - [ ] Diff, merge color
