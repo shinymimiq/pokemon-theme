@@ -2,7 +2,7 @@
     "name": "pokemon-color",
     "displayName": "Pokemon-theme",
     "description": "Inspired from pokemon type colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Shinymimikyu",
     "icon": "image/icon.png",
     "repository": {"type": "git", "url": "https://github.com/shinymimiq/pokemon-theme"},
